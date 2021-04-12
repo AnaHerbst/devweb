@@ -12,14 +12,14 @@
   
 --Pessoa http://localhost:3000/api/pessoas/pessoa
 { 
- "nome_pessoa":"Daniel Rodrigues Stein Ferreira",
+ "nome_pessoa":"Ana Clara Herbst",
  "cpf_pessoa":"158.362.877-08",
  "codigo_unidade":1,
  "data_nascimento_pessoa": "05/11/1995",
  "telefone_pessoa":"(27) 99762-0962",
  "grupo_prioritario":false,
  "endereco_pessoa":"Ladeira Francisco dos Santos Silva nº28",
- "email_pessoa":"daniels95ab@gmail.com"
+ "email_pessoa":"anaclaraherbst@gmail.com"
 }
 
 
